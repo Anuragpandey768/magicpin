@@ -1108,16 +1108,7 @@ form button {
     margin-bottom: 2rem;
 }
 
-.cards:hover {
-    background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
-    color: white !important;
 
-}
-
-.cards:hover p {
-    color: white !important;
-
-}
 
 .app-inner::before {
     background: linear-gradient(76.92deg, #C89CFF 0%, #FF54B0 52.08%, #FF9F5A 100%);
